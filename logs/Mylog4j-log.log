@@ -1,0 +1,15 @@
+[ERROR] 2024-05-20 16:48:44.082 [main] LoggerLoad - Error - You can not divide a number by zero
+[INFO ] 2024-05-20 16:48:44.085 [main] LoggerLoad - Info  - Addition of integers
+[WARN ] 2024-05-20 16:48:44.085 [main] LoggerLoad - Warning - Testing
+[ERROR] 2024-05-20 16:55:32.703 [main] LoggerLoad - Error - You can not divide a number by zero
+[WARN ] 2024-05-20 16:55:32.706 [main] LoggerLoad - Warning - Testing
+[INFO ] 2024-05-20 16:55:32.707 [main] LoggerLoad - Info  - Addition of integers
+[ERROR] 2024-05-20 16:55:45.916 [main] LoggerLoad - Error - You can not divide a number by zero
+[INFO ] 2024-05-20 16:55:45.919 [main] LoggerLoad - Info  - Addition of integers
+[WARN ] 2024-05-20 16:55:45.920 [main] LoggerLoad - Warning - Testing
+[ERROR] 2024-05-20 17:06:01.779 [main] LoggerLoad - Error - You can not divide a number by zero
+[INFO ] 2024-05-20 17:06:01.782 [main] LoggerLoad - Info  - Addition of integers
+[WARN ] 2024-05-20 17:06:01.782 [main] LoggerLoad - Warning - Testing
+[ERROR] 2024-05-23 19:12:11.778 [main] LoggerLoad - Error - You can not divide a number by zero
+[INFO ] 2024-05-23 19:12:11.780 [main] LoggerLoad - Info  - Addition of integers
+[WARN ] 2024-05-23 19:12:11.780 [main] LoggerLoad - Warning - Testing
